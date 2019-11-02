@@ -1,0 +1,9 @@
+{
+	"title": "Nombres de las tablas de EPS Andes para la aplicación A",
+	"unidadPersistencia": "EPSAndes",
+	"tablas":
+	[
+		"epsandes_sequence",
+		"A_IPS"
+	]
+}
